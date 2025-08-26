@@ -50,9 +50,8 @@ Here are the steps of the process:
 *   **Conclusion and Future Outlook**
 
 ## OUTPUT FILE:
-[Download the output PDF](https://github.com/NANDAVELAN/EXP-1-PROMPT-ENGINEERING-/blob/main/Generative%20AI_%20Concepts%20and%20Impact_.pdf)
 
-
+[prompt.exp.1.pdf](https://github.com/user-attachments/files/21991400/prompt.exp.1.pdf)
 
 ## Result
 Thus, Comprehensive Report on the Fundamentals of Generative AI and Large Language Models was created.
